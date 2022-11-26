@@ -1,7 +1,7 @@
 # Hackintosh-Gigabyte-Z490-UD
-Gigabyte Z490 UD with AMD Radeon RX 560
-MacOS Ventura 13.0.1
-OpenCore 0.8.6 
+* Gigabyte Z490 UD with AMD Radeon RX 560
+* MacOS Ventura 13.0.1
+* OpenCore 0.8.6 
 
 <img width="392" src="https://user-images.githubusercontent.com/64507185/204080779-84ab9b0f-51ee-44e9-9af2-093af5b5028a.png">
 
