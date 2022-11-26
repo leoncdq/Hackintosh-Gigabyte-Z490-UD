@@ -6,11 +6,13 @@
 <img width="392" src="https://user-images.githubusercontent.com/64507185/204080779-84ab9b0f-51ee-44e9-9af2-093af5b5028a.png">
 
 Hardware
-* Processor: Intel i7-10700
+* CPU: Intel i7-10700
 * GPU: AMD Radeon RX 560
-* Mobo: Gigabyte Z490 UD
+* MB: Gigabyte Z490 UD
 * SSD: SAMSUNG 970 EVO M.2 NVME 500GB
 * RAM: GLOWAY TYPEa DDR4 3000 16GB X2
+* SoundCard：Realtek ALC887
+* Ethernet：Realtek GbE
 * Wifi/BT: Fenvi FV-T919
 
 Working
@@ -24,9 +26,9 @@ Working
 * Restart
 
 Not working
-*Sleep/Wake
-*Intel UHD Graphics 630
+* Sleep/Wake
+* Intel UHD Graphics 630
 
 Not tested
-*USB speed
+* USB speed
 
